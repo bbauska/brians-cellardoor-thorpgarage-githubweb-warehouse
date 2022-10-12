@@ -12,9 +12,8 @@
 >### 1.2 [**Bla Bla**](#ch1-2)
 >### 1.3 [**Bla Bla Bla**](#ch1-3)
 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Table of Contents
+## [**Pick #2: **](#ch)
+>### 2.1 [**Introduction - Module 1: bla**](#ch2-1)
 
 10 Best JavaScript UI libraries
 JavaScript UI library and framework help the web developers to easily build a clean, easy, consistent, and attractive user interface. Today, over 10,000 JavaScript UI libraries are available for web developers. But the question arises which is the best among them. Many web developers take a lot of time and effort in browsing for the best JavaScript UI library.
@@ -25,13 +24,36 @@ The best method to choose the most ideal library is by determining the goals and
 1.  <a href="https://hackr.io/blog/javascript-ui-library#1-angular-material">Angular Material</a>
 2. NGX Bootstrap
 3. DHTMLX
+## [**Pick #2: **](#ch)
+>### 2.1 [**Introduction - Module 1: bla**](#ch2-1)
+
 4. Webix
+## [**Pick #2: **](#ch)
+>### 2.1 [**Introduction - Module 1: bla**](#ch2-1)
+
 5. Base web
+## [**Pick #2: **](#ch)
+>### 2.1 [**Introduction - Module 1: bla**](#ch2-1)
+
 6. Material UI
+## [**Pick #2: **](#ch)
+>### 2.1 [**Introduction - Module 1: bla**](#ch2-1)
+
 7. Evergreen
+## [**Pick #2: **](#ch)
+>### 2.1 [**Introduction - Module 1: bla**](#ch2-1)
+
 8. Rebass
+## [**Pick #2: **](#ch)
+>### 2.1 [**Introduction - Module 1: bla**](#ch2-1)
+
 9. Grommet
+## [**Pick #2: **](#ch)
+>### 2.1 [**Introduction - Module 1: bla**](#ch2-1)
+
 10. VMware Clarity
+## [**Pick #2: **](#ch)
+>### 2.1 [**Introduction - Module 1: bla**](#ch2-1)
 
 1. Angular Material
 Angular Material offers material design components including Cards, Grid, Side Nav, Dialog, Lists, and various others. It is easy to pair Angular material with Angular Flex-Layout. Therefore it offers a high variety of UI components, high-performance outcomes, advanced customized components, and a committed community. Angular Material also supports enterprise development which is an integral part of the external customer page, mobile application, and company website.
