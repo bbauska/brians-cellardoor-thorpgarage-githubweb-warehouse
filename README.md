@@ -1,10 +1,11 @@
-<h2 align="center">TOP 10 JAVASCRIPT UI LIBRARIES</h2>
-<h6 align="center">(brians-cellardoor-thorpgarage-githubweb-warehouse)</h6>
+<h1 align="center">TOP 10 JAVASCRIPT UI LIBRARIES</h1>
+<h7 align="center">(brians-cellardoor-thorpgarage-githubweb-warehouse)</h7>
 <br>
 
-<h3 align="center">Brian's CellarDoor - Thorp Garage - GitHub Web - Warehouse by Brian Bauska (CTGGW)</h3>
+<h2 align="center">CellarDoor - Thorp Garage - GitHub Web - Warehouse (CTGGW)</h2>
+<h7 align="center">by Brian Bauska</h7>
 
-## [**Module 1: Angular Material**](#ch1)
+## [**Pick #1: Angular Material**](#ch1)
 >### 1.1 [**Introduction - Module 1: bla**](#ch1-1)
 >### 1.2 [**Bla Bla**](#ch1-2)
 >### 1.3 [**Bla Bla Bla**](#ch1-3)
