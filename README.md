@@ -1,8 +1,10 @@
 <h1 align="center">TOP 10 JAVASCRIPT UI LIBRARIES</h1>
+<p align="center" width="100%">
 <h7 align="center">(brians-cellardoor-thorpgarage-githubweb-warehouse)</h7>
 <br>
 
 <h2 align="center">CellarDoor - Thorp Garage - GitHub Web - Warehouse (CTGGW)</h2>
+<p align="center" width="100%">
 <h7 align="center">by Brian Bauska</h7>
 
 ## [**Pick #1: Angular Material**](#ch1)
