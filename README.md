@@ -27,30 +27,28 @@ The best method to choose the most ideal library is by determining the goals and
 
 <h2 id="ch3">3. DHTMLX</h2>
 
-## [Pick #3: ](#ch3)
->### 3.1 [Introduction - Module 1: bla](#ch3-1)
+<h3 id="ch3-1">3.1 Introduction - Module 3: bla</h2>
 
 <h2 id="ch4">4. Webix</h2>
 
-## [Pick #4: ](#ch4)
->### 4.1 [Introduction - Module 1: bla](#ch4-1)
+<h3 id="ch4-1">4.1 Introduction - Module 4: bla</h2>
 
 <h2 id="ch5">5. Base web</h2>
 
-## [Pick #5: ](#ch5)
->### 5.1 [Introduction - Module 1: bla](#ch5-1)
+<h3 id="ch5-1">5.1 Introduction - Module 1: bla</h2>
 
 <h2 id="ch6">6. Material UI</h2>
 
-## [Pick #6: ](#ch6)
->### 6.1 [Introduction - Module 1: bla](#ch6-1)
+<h2 id="ch6-1">6. Base web</h2>
 
 <h2 id="ch7">7. Evergreen</h2>
+<h3 id="ch7-1">7.1 Base web</h2>
 
 ## [Pick #7: ](#ch7)
 >### 7.1 [Introduction - Module 1: bla](#ch7-1)
 
 <h2 id="ch8">8. Rebass</h2>
+<h2 id="ch5">5. Base web</h2>
 
 ## [Pick #8: ](#ch8)
 >### 8.1 [Introduction - Module 1: bla](#ch8-1)
