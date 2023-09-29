@@ -26,34 +26,42 @@ The best method to choose the most ideal library is by determining the goals and
 <h2 id="ch2">2. NGX Bootstrap</h2>
 
 <h2 id="ch3">3. DHTMLX</h2>
+
 ## [Pick #3: ](#ch3)
 >### 3.1 [Introduction - Module 1: bla](#ch3-1)
 
 <h2 id="ch4">4. Webix</h2>
+
 ## [Pick #4: ](#ch4)
 >### 4.1 [Introduction - Module 1: bla](#ch4-1)
 
 <h2 id="ch5">5. Base web</h2>
+
 ## [Pick #5: ](#ch5)
 >### 5.1 [Introduction - Module 1: bla](#ch5-1)
 
 <h2 id="ch6">6. Material UI</h2>
+
 ## [Pick #6: ](#ch6)
 >### 6.1 [Introduction - Module 1: bla](#ch6-1)
 
 <h2 id="ch7">7. Evergreen</h2>
+
 ## [Pick #7: ](#ch7)
 >### 7.1 [Introduction - Module 1: bla](#ch7-1)
 
 <h2 id="ch8">8. Rebass</h2>
+
 ## [Pick #8: ](#ch8)
 >### 8.1 [Introduction - Module 1: bla](#ch8-1)
 
 <h2 id="ch8">9. Grommet</h2>
+
 ## [Pick #9: ](#ch9)
 >### 9.1 [Introduction - Module 1: bla](#ch9-1)
 
 <h2 id="ch10">10. VMware Clarity</h2>
+
 ## [Pick #10: ](#ch10)
 >### 10.1 [Introduction - Module 1: bla](#ch10-1)
 
