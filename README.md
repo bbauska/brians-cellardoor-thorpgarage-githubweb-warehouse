@@ -41,27 +41,28 @@ The best method to choose the most ideal library is by determining the goals and
 
 <h2 id="ch6-1">6. Base web</h2>
 
-<h2 id="ch7">7. Evergreen</h2>
+<h2 id="ch7">7. <a href="https://evergreen.segment.com/">Evergreen React</a></h2>
+
 <h3 id="ch7-1">7.1 Base web</h2>
 
 ## [Pick #7: ](#ch7)
->### 7.1 [Introduction - Module 1: bla](#ch7-1)
+>### 7.1 [Introduction - Module 1:](#ch7-1)
 
 <h2 id="ch8">8. Rebass</h2>
 <h2 id="ch5">5. Base web</h2>
 
 ## [Pick #8: ](#ch8)
->### 8.1 [Introduction - Module 1: bla](#ch8-1)
+>### 8.1 [Introduction - Module 1:](#ch8-1)
 
-<h2 id="ch8">9. Grommet</h2>
+<h2 id="ch8">9. <a href="https://v2.grommet.io/">Grommet</a></h2>
 
 ## [Pick #9: ](#ch9)
->### 9.1 [Introduction - Module 1: bla](#ch9-1)
+>### 9.1 [Introduction - Module 1:](#ch9-1)
 
-<h2 id="ch10">10. VMware Clarity</h2>
+<h2 id="ch10">10. <a href="https://github.com/vmware-clarity/ng-clarity">VMware Clarity</a></h2>
 
 ## [Pick #10: ](#ch10)
->### 10.1 [Introduction - Module 1: bla](#ch10-1)
+>### 10.1 [Introduction - Module 1:](#ch10-1)
 
 <h3 id="ch1-1">1.1 Angular Material</h3>
 Angular Material offers material design components including Cards, Grid, Side Nav, Dialog, Lists, and various others. It is easy to pair Angular material with Angular Flex-Layout. Therefore it offers a high variety of UI components, high-performance outcomes, advanced customized components, and a committed community. Angular Material also supports enterprise development which is an integral part of the external customer page, mobile application, and company website.
