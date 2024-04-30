@@ -23,21 +23,21 @@ The best method to choose the most ideal library is by determining the goals and
 
 <h2 id="ch1">1.  <a href="https://hackr.io/blog/javascript-ui-library#1-angular-material">Angular Material</a></h2>
 
-<h2 id="ch2">2. NGX Bootstrap</h2>
+<h2 id="ch2">2. <a href="https://www.npmjs.com/package/ngx-bootstrap">NGX Bootstrap</a></h2>
 
-<h2 id="ch3">3. DHTMLX</h2>
+<h2 id="ch3">3. <a href="https://dhtmlx.com/">DHTMLX</a></h2>
 
 <h3 id="ch3-1">3.1 Introduction - Module 3: bla</h2>
 
-<h2 id="ch4">4. Webix</h2>
+<h2 id="ch4">4. <a href="https://webix.com/">Webix</a></h2>
 
-<h3 id="ch4-1">4.1 Introduction - Module 4: bla</h2>
+<h3 id="ch4-1">4.1 Introduction - Module 4: </h2>
 
-<h2 id="ch5">5. Base web</h2>
+<h2 id="ch5">5. <a href="https://baseweb.design/">Base web</a></h2>
 
-<h3 id="ch5-1">5.1 Introduction - Module 1: bla</h2>
+<h3 id="ch5-1">5.1 Introduction - Module 1: </h2>
 
-<h2 id="ch6">6. Material UI</h2>
+<h2 id="ch6">6. <a href="https://mui.com/material-ui/">React Material UI</a></h2>
 
 <h2 id="ch6-1">6. Base web</h2>
 
